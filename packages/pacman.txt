@@ -1,0 +1,7 @@
+sway
+swaybg
+swayidle
+swaylock
+greetd-gtkgreet
+wdisplays
+waybar
